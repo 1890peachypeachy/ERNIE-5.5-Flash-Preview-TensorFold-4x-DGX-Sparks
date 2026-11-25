@@ -1,0 +1,5 @@
+scripts/cluster.env
+scripts/suite_*.json
+*.nsys-rep
+*.sqlite
+__pycache__/
